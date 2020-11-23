@@ -12,12 +12,11 @@
   
 </p>
 
-<h2 align="center">Hi! My name is Divya . </h2>
+<h2 align="center">Hi! My name is Divya. </h2>
 
-<p align="center">I'm a Graduate Student at San Jose State University pursuing my Masters degree in Computer Software Engineering and will be graduating Dec 2020.
-I am interested and passionate about Full Stack/Backend Web Development. I have worked on several Full Stack Web applications independently and in team. I also have 3 years of work experience as a Software Engineer.</p>
+<p align="center">I Graduated from San Jose State University as a student of Masters in Data Analytics. An Enthusiastic and self-motivated individual having 4 years of professional experience in computer applications,programming languages, data modeling and database management. </p>
 
-<p align="center">I’m currently working on building a professional networking platform in healthcare as a part of my internship. I’m currently learning Spring Boot and Kafka. I am actively looking for opportunities in Software Engineering.</p>
+<p align="center">I believe that ‘Just like sky learning has no limit’.</p>
 
 <p align="left">
   
